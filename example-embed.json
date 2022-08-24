@@ -1,0 +1,11 @@
+{
+    "embed": [
+        {"title": "EMBED TITLE [REQUIRED]", "description": "EMBED DESCRIPTION", "color": "COLOR"},
+        {"type": "author", "name": "AUTHOR NAME [REQUIRED]", "url": "LINK TO AUTHOR", "icon url": "URL TO IMAGE OF AUTHOR"},
+        {"type": "field", "name": "FIELD NAME 1 [REQUIRED]", "value": "FIELD VALUE 1", "inline": true},
+        {"type": "field", "name": "FIELD NAME 2 [REQUIRED]", "value": "FIELD VALUE 2", "inline": true},
+        {"type": "image", "url": "URL TO IMAGE [REQUIRED]"},
+        {"type": "thumbnail", "url": "URL TO THUMBNAIL [REQUIRED]"},
+        {"type": "footer", "text":"FOOTER TEXT [REQUIRED]"}
+    ]
+}
